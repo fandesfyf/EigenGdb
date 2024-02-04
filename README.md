@@ -1,0 +1,2 @@
+# EigenGdb
+用于vscode中debug直接显示eigen变量的配置
